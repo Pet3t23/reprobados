@@ -5618,3 +5618,42 @@ Sampler Limit: 32
 [2025.10.06-15.30.32:115][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
 [2025.10.06-15.30.32:124][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2025.10.06-15.30.32:175][422]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.10.06-15.33.15:099][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.06-15.33.15:104][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YX/427YAJNOVE8BYZ9YE6TA8T_Auto6
+[2025.10.06-15.33.15:104][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/427YAJNOVE8BYZ9YE6TA8T_Auto69E3B22894AB1CAF544F2C3839E0E5208.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YX/427YAJNOVE8BYZ9YE6TA8T_Auto6.uasset'
+[2025.10.06-15.33.15:106][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Y/RLUP6COY6X01A2UEQFFQG3_Auto6
+[2025.10.06-15.33.15:106][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RLUP6COY6X01A2UEQFFQG3_Auto65FC4198C47AAED81FE1F66949DEC51D0.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Y/RLUP6COY6X01A2UEQFFQG3_Auto6.uasset'
+[2025.10.06-15.33.15:110][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YG/ZIVF2QJPXNYR3HB9CDHUT1_Auto6
+[2025.10.06-15.33.15:110][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/ZIVF2QJPXNYR3HB9CDHUT1_Auto69A95A9A84BD349FFEDE060A16C8BCA54.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YG/ZIVF2QJPXNYR3HB9CDHUT1_Auto6.uasset'
+[2025.10.06-15.33.15:111][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HF/7R7EBWRCA5DJ0A6FY49IJE_Auto6
+[2025.10.06-15.33.15:111][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7R7EBWRCA5DJ0A6FY49IJE_Auto608D138954E5D4774C2699590E42223E4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HF/7R7EBWRCA5DJ0A6FY49IJE_Auto6.uasset'
+[2025.10.06-15.33.15:114][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VB/X46YH2OG95ZRK3YLMZZDK3_Auto6
+[2025.10.06-15.33.15:114][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/X46YH2OG95ZRK3YLMZZDK3_Auto603EFE02D40173DC3D9A61087AF91D64E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VB/X46YH2OG95ZRK3YLMZZDK3_Auto6.uasset'
+[2025.10.06-15.33.15:116][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WI/YYZNA3QC0MXGS03NHDZY82_Auto6
+[2025.10.06-15.33.15:116][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/YYZNA3QC0MXGS03NHDZY82_Auto605DF4F9C4486C0E09EA2C388BCCBF70F.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WI/YYZNA3QC0MXGS03NHDZY82_Auto6.uasset'
+[2025.10.06-15.33.15:119][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2C/DHFLQDXE84OAIE5M3JTZW7_Auto6
+[2025.10.06-15.33.15:119][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/DHFLQDXE84OAIE5M3JTZW7_Auto60E3D044A4C84A7A505E87A90F34485B8.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2C/DHFLQDXE84OAIE5M3JTZW7_Auto6.uasset'
+[2025.10.06-15.33.15:121][595]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.048
+[2025.10.06-15.33.15:121][595]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.10.06-15.33.15:122][595]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animation/ai] ([2] browsable assets)...
+[2025.10.06-15.33.15:155][595]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/animation/ai.ai]
+[2025.10.06-15.33.15:155][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation/ai]
+[2025.10.06-15.33.15:161][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animation/ai_Auto6
+[2025.10.06-15.33.15:161][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/ai_Auto6F69BB4264707DBD4DB7859AFFF3744E2.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/animation/ai_Auto6.uasset'
+[2025.10.06-15.33.15:162][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ChatGPT_Image_6_oct_2025__09_22_06] ([1] browsable assets)...
+[2025.10.06-15.33.15:167][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ChatGPT_Image_6_oct_2025__09_22_06.ChatGPT_Image_6_oct_2025__09_22_06]
+[2025.10.06-15.33.15:167][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChatGPT_Image_6_oct_2025__09_22_06]
+[2025.10.06-15.33.15:173][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ChatGPT_Image_6_oct_2025__09_22_06_Auto6
+[2025.10.06-15.33.15:173][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/ChatGPT_Image_6_oct_2025__09_22_DDB026444498E0F18430FDA9D9FDEE37.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/ChatGPT_Image_6_oct_2025__09_22_06_Auto6.uasset'
+[2025.10.06-15.33.15:174][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ChatGPT_Image_6_oct_2025__09_22_06_Mat] ([1] browsable assets)...
+[2025.10.06-15.33.15:188][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ChatGPT_Image_6_oct_2025__09_22_06_Mat.ChatGPT_Image_6_oct_2025__09_22_06_Mat]
+[2025.10.06-15.33.15:188][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChatGPT_Image_6_oct_2025__09_22_06_Mat]
+[2025.10.06-15.33.15:190][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ChatGPT_Image_6_oct_2025__09_22_06_Mat_Auto6
+[2025.10.06-15.33.15:190][595]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/ChatGPT_Image_6_oct_2025__09_22_FDF1134C4E3F61107A61C0AB38184B6C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/ChatGPT_Image_6_oct_2025__09_22_06_Mat_Auto6.uasset'
+[2025.10.06-15.33.15:191][595]LogFileHelpers: Auto-saving content packages took 0.070
+[2025.10.06-15.34.49:022][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34813.535156
+[2025.10.06-15.34.50:019][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-15.34.50:019][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34814.199219, Update Interval: 302.030701
+[2025.10.06-15.36.35:180][253]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-15.36.35:180][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-15.36.35:300][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
