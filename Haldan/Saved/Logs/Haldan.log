@@ -3203,3 +3203,199 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.06-07.20.28:764][478]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.10.06-07.20.32:974][731]LogContentBrowser: Attempting asset rename: NewFolder -> Text
 [2025.10.06-07.20.32:974][731]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.06-07.21.07:626][229]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.06-07.21.07:641][229]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.06-07.21.07:647][229]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.06-07.21.07:686][231]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.06-07.21.11:761][476]LogContentBrowser: Attempting asset rename: NewBlueprint -> text
+[2025.10.06-07.21.11:773][476]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.06-07.21.41:572][908]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.06-07.21.41:585][908]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.06-07.21.41:591][908]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.06-07.21.41:601][909]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.06-07.21.47:244][248]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> nota_texto
+[2025.10.06-07.21.47:251][248]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.06-07.22.13:452][536]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Text/nota_texto.nota_texto
+[2025.10.06-07.22.13:452][536]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.06-07.22.13:460][536]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.06-07.22.16:314][677]LogSlate: Window 'nota_texto' being destroyed
+[2025.10.06-07.23.11:017][524]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.23.20:652][964]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.24.15:387][210]LogEditorTransaction: Undo Resize Widget
+[2025.10.06-07.24.44:735][641]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.25.36:969][736]LogEditorTransaction: Undo Move Anchor
+[2025.10.06-07.26.05:896][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5511.963379
+[2025.10.06-07.26.06:011][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.26.06:011][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5512.062012, Update Interval: 321.868958
+[2025.10.06-07.26.56:420][204]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.27.59:927][465]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.28.10:822][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.06-07.28.39:895][359]LogSlate: Took 0.006982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.10.06-07.29.11:135][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.06-07.29.22:265][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.06-07.29.46:801][322]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.29.46:835][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.06-07.30.10:494][626]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_457), cannot focus it
+[2025.10.06-07.30.11:423][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.06-07.30.11:426][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto6
+[2025.10.06-07.30.11:426][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7A7OACZL0QP7DGG1NZ5833_Auto69FF7DCA04E6785A1A239628B745908AF.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto6.uasset'
+[2025.10.06-07.30.11:428][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto6
+[2025.10.06-07.30.11:428][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/XD77H1O3HED2HXWDATMEGD_Auto6AB35F53048E7704B2339399760882225.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto6.uasset'
+[2025.10.06-07.30.11:430][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto6
+[2025.10.06-07.30.11:430][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/T8CEA6LF7C69NHJKEEM41P_Auto6F5D5D16148065838E42E39B93C140E81.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto6.uasset'
+[2025.10.06-07.30.11:432][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto6
+[2025.10.06-07.30.11:432][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/4C12OJFFZH4RWGFARIFV8I_Auto6BC35B98442230B1A3ED94AA80AE06F44.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto6.uasset'
+[2025.10.06-07.30.11:433][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto6
+[2025.10.06-07.30.11:434][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5QH90BRWLCFFTHMF9RZBE9_Auto6A72478BC43FB919A2150D78EC8E79389.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto6.uasset'
+[2025.10.06-07.30.11:435][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto6
+[2025.10.06-07.30.11:435][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5LV56FNEQ0O2YDSIK3LKAN_Auto6CBEA8B8B423307FAEBD9DA955CF8601C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto6.uasset'
+[2025.10.06-07.30.11:437][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto6
+[2025.10.06-07.30.11:437][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/UZA3IA3OVI234MAT45RGFX_Auto6D4B1D3004F54EAD89D0C359DFEF98C7F.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto6.uasset'
+[2025.10.06-07.30.11:439][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto6
+[2025.10.06-07.30.11:439][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/64Q9EBQ9Y9T30UCU7VOP42_Auto6003C0AEE45B7B6740072079330CB6C24.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto6.uasset'
+[2025.10.06-07.30.11:441][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto6
+[2025.10.06-07.30.11:441][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AW4953OJG7R4HK024G155K_Auto6A4C6351242897964E9CA2CA52AD40426.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto6.uasset'
+[2025.10.06-07.30.11:443][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto6
+[2025.10.06-07.30.11:443][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/VGDWEDXEZI0VB4DXI450ID_Auto699DA45E74FF87194F9B27FACA4A9A2CC.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto6.uasset'
+[2025.10.06-07.30.11:444][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto6
+[2025.10.06-07.30.11:444][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AHEOTD1NGATEDYNWT3M4E6_Auto6153E683749B77D8AA4C20EB905A162E0.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto6.uasset'
+[2025.10.06-07.30.11:446][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto6
+[2025.10.06-07.30.11:446][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N19L2SASRSNSB3YNKFPZ1A_Auto675BD025E47E32F527258AEBCD37436EE.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto6.uasset'
+[2025.10.06-07.30.11:448][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto6
+[2025.10.06-07.30.11:448][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/S6BMYXULGWK82GARN6Q8QJ_Auto631CE4AFA4B2098F6CF436F9E370CC980.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto6.uasset'
+[2025.10.06-07.30.11:451][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto6
+[2025.10.06-07.30.11:451][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/3GUHCZBH4O0FV61QHKSHDZ_Auto6289DF55743AE0FE4F724F983F7390FC9.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto6.uasset'
+[2025.10.06-07.30.11:453][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto6
+[2025.10.06-07.30.11:453][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/BOVZ7OPX5VTVVI03PDL78B_Auto6F045BEAA48A3403531D116932D50EC09.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto6.uasset'
+[2025.10.06-07.30.11:454][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto6
+[2025.10.06-07.30.11:454][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto65F344FB0483D36342215138C69ADFE2F.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto6.uasset'
+[2025.10.06-07.30.11:457][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto6
+[2025.10.06-07.30.11:457][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/CSBJC46FQLLRENYE445SBM_Auto6C803E7E54F6C6ED79FC696857F8F8AE6.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto6.uasset'
+[2025.10.06-07.30.11:459][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto6
+[2025.10.06-07.30.11:459][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RTQIOPHUGHI7C4NM5YCVGT_Auto6A64C6B0747661775AA0115BF5102CAB1.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto6.uasset'
+[2025.10.06-07.30.11:461][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto6
+[2025.10.06-07.30.11:461][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/TK50X9ZK3H044VC1YFEBXU_Auto617CDE3884FCC50B542A581B3F7E95CFB.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto6.uasset'
+[2025.10.06-07.30.11:463][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto6
+[2025.10.06-07.30.11:463][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/6S9KJO1QJV5R0IXPNWY5GI_Auto687D6C6574C8C1F64D581CF96E03133B8.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto6.uasset'
+[2025.10.06-07.30.11:465][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto6
+[2025.10.06-07.30.11:465][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/MSPIQ4UIQ6NTUC6IEO6V04_Auto60DF180F741E7496DAA6845810718099F.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto6.uasset'
+[2025.10.06-07.30.11:467][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto6
+[2025.10.06-07.30.11:467][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7OZSJB47Y1N7GRRAH5BS70_Auto6BB68501845F4C49FBE109690DCE130CD.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto6.uasset'
+[2025.10.06-07.30.11:469][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto6
+[2025.10.06-07.30.11:469][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/80WKY1VEO16AI82UVJED62_Auto6F1100A1747F3FA860FE920890945A633.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto6.uasset'
+[2025.10.06-07.30.11:472][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto6
+[2025.10.06-07.30.11:472][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/9L1IPQ52JV4CSRI7PLR3LT_Auto68FD349574FE9B5D6F19315B6E7C57CF4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto6.uasset'
+[2025.10.06-07.30.11:474][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto6
+[2025.10.06-07.30.11:474][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/GDUG48DUR3CND9V9BT69HS_Auto64B97EA7C494B1498A0B555B33148E776.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto6.uasset'
+[2025.10.06-07.30.11:476][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto6
+[2025.10.06-07.30.11:476][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/G9DU88AB2CNJZK054FTL32_Auto60A21BD6841BC40B29D4CF5899E620313.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto6.uasset'
+[2025.10.06-07.30.11:478][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto6
+[2025.10.06-07.30.11:479][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/8I6MTKGG3AQW1HABN673IM_Auto62609449445E908A706CA8C88CD84648C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto6.uasset'
+[2025.10.06-07.30.11:480][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto6
+[2025.10.06-07.30.11:480][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N39WACH30SXBVN8U3OGUA5_Auto69C9B48244E22B6D155575B9FAFDA8F42.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto6.uasset'
+[2025.10.06-07.30.11:483][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto6
+[2025.10.06-07.30.11:483][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/1LCOIKLXEINVMCUNCQIXLZ_Auto6D18AF52748FE0BEDA2F52A899A318F6D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto6.uasset'
+[2025.10.06-07.30.11:485][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto6
+[2025.10.06-07.30.11:485][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/OE0HZR2KX09990M66ALDUH_Auto6B9B16728492F33330FF134BECE237D1A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto6.uasset'
+[2025.10.06-07.30.11:487][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto6
+[2025.10.06-07.30.11:487][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/YAL10POUXVQ1WXDF320A6X_Auto6572524A04C0A2C0834BC75B1CD56866A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto6.uasset'
+[2025.10.06-07.30.11:489][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto6
+[2025.10.06-07.30.11:489][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/SD064IGO2UYPUGN4JDJ4B4_Auto6328086424A10A5891297C0A881255B6C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto6.uasset'
+[2025.10.06-07.30.11:491][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto6
+[2025.10.06-07.30.11:491][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RUGSPJPE9QYVOVE1RUWAT7_Auto61E8A8E7C491507B6241DC4A8378F34CB.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto6.uasset'
+[2025.10.06-07.30.11:492][667]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.100
+[2025.10.06-07.30.11:493][667]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2025.10.06-07.30.11:493][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Text/text] ([2] browsable assets)...
+[2025.10.06-07.30.11:493][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text/text]
+[2025.10.06-07.30.11:493][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/text" FILE="../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/Text/text_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.10.06-07.30.11:496][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Text/text_Auto6
+[2025.10.06-07.30.11:496][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/text_Auto640789E344803C25DD51385AD3A503EB5.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/Text/text_Auto6.uasset'
+[2025.10.06-07.30.11:497][667]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Text/nota_texto] ([2] browsable assets)...
+[2025.10.06-07.30.11:503][667]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Text/nota_texto.nota_texto]
+[2025.10.06-07.30.11:505][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text/nota_texto]
+[2025.10.06-07.30.11:509][667]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Text/nota_texto_Auto6
+[2025.10.06-07.30.11:509][667]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/nota_texto_Auto69DD0D2554688737BA5DB2EB3E34E7323.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/Text/nota_texto_Auto6.uasset'
+[2025.10.06-07.30.11:509][667]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.10.06-07.30.18:666][ 85]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.30.18:717][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.06-07.30.20:906][213]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.30.20:940][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.06-07.30.30:909][805]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.30.30:932][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.06-07.32.02:675][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5868.717285
+[2025.10.06-07.32.03:673][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.32.03:673][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5869.380371, Update Interval: 359.584351
+[2025.10.06-07.32.47:467][210]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.32.47:492][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.06-07.32.49:260][314]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_457), cannot focus it
+[2025.10.06-07.32.50:611][395]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_457), cannot focus it
+[2025.10.06-07.33.56:809][284]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.33.56:838][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.06-07.35.06:925][844]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.35.06:925][844]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.35.06:965][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.06-07.35.10:487][ 53]LogBlueprint: Warning: Unknown type of hyperlinked object (texto), cannot focus it
+[2025.10.06-07.35.11:504][114]LogBlueprint: Warning: Unknown type of hyperlinked object (texto), cannot focus it
+[2025.10.06-07.35.13:338][224]LogBlueprint: Warning: Unknown type of hyperlinked object (texto), cannot focus it
+[2025.10.06-07.35.14:104][270]LogBlueprint: Warning: Unknown type of hyperlinked object (texto), cannot focus it
+[2025.10.06-07.35.14:288][281]LogBlueprint: Warning: Unknown type of hyperlinked object (texto), cannot focus it
+[2025.10.06-07.35.17:455][471]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_457), cannot focus it
+[2025.10.06-07.35.24:302][881]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.35.24:302][881]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.35.24:320][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.06-07.35.26:719][ 23]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.35.26:719][ 23]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.35.26:720][ 23]LogClass: Warning: Type mismatch in texto of nota_texto_C - Previous (TextProperty) Current(ObjectProperty) in package: FObjectReader
+[2025.10.06-07.35.26:743][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.06-07.35.27:686][ 78]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.35.27:686][ 78]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.35.27:709][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.06-07.35.32:125][341]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.35.32:125][341]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.35.32:149][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.06-07.36.12:876][924]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' texto ': Unknown Error
+[2025.10.06-07.36.12:877][924]LogBlueprint: Error: [AssetLog] /Game/Text/nota_texto.nota_texto: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_457 ': Member:texto Unable to bind ObjectProperty, unsupported type.
+[2025.10.06-07.36.12:908][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.06-07.38.12:662][180]Cmd: EDIT PASTE
+[2025.10.06-07.38.12:663][180]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-07.38.12:664][180]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/bp_IAEn (0x5330C9D169BEE72D) - The package to load does not exist on disk or in the loader
+[2025.10.06-07.38.12:664][180]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/bp_IAEn.bp_IAEn_C'
+[2025.10.06-07.38.13:443][227]Cmd: EDIT PASTE
+[2025.10.06-07.38.13:443][227]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-07.38.27:302][687]Cmd: EDIT PASTE
+[2025.10.06-07.38.27:302][687]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-07.38.53:729][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6279.746094
+[2025.10.06-07.38.54:727][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.38.54:728][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6280.412109, Update Interval: 343.501709
+[2025.10.06-07.40.11:833][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2025.10.06-07.40.11:837][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2025.10.06-07.40.11:838][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Text/nota_texto] ([2] browsable assets)...
+[2025.10.06-07.40.11:844][ 81]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Text/nota_texto.nota_texto]
+[2025.10.06-07.40.11:844][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text/nota_texto]
+[2025.10.06-07.40.11:850][ 81]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Text/nota_texto_Auto7
+[2025.10.06-07.40.11:850][ 81]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/nota_texto_Auto774C52CB545EE4F2B3A7EEA9CF596970C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/Text/nota_texto_Auto7.uasset'
+[2025.10.06-07.40.11:852][ 81]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.10.06-07.45.18:466][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6664.492188
+[2025.10.06-07.45.19:464][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.45.19:464][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6665.158691, Update Interval: 334.076965
+[2025.10.06-07.51.30:182][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7036.203613
+[2025.10.06-07.51.31:181][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.51.31:181][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7036.869629, Update Interval: 341.293365
+[2025.10.06-07.52.51:870][369]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 292...c5e
+[2025.10.06-07.52.51:870][369]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.85 RefreshExpires: 1.554e+07
+[2025.10.06-07.52.52:873][372]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 292...c5e Access[Expires: 2025.10.06-09.52.47 Remaining: 7200.25] Refresh[Expires: 2026-04-04T03:45:56.831Z Remaining: 15537189.83] State: Valid
+[2025.10.06-07.56.01:854][939]LogDerivedDataCache: C:/Users/aleja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.06-07.56.12:038][959]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.06-13.54.18:117][959]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 292...c5e
+[2025.10.06-13.54.18:117][959]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -1.449e+04 RefreshExpires: 1.552e+07
+[2025.10.06-13.54.18:631][960]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.06-13.54.18:635][960]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21648
+[2025.10.06-13.54.19:127][960]LogAutomationController: Ignoring very large delta of 21490.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.06-13.54.19:182][961]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.06-13.54.19:241][961]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cf66c755-ed0d-46bf-a60c-051ab6075c06}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=417.44
+[2025.10.06-13.54.19:242][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.06-13.54.19:250][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.06-13.54.20:175][964]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 292...c5e Access[Expires: 2025.10.06-15.54.14 Remaining: 7200.30] Refresh[Expires: 2026-04-04T03:45:56.831Z Remaining: 15515502.83] State: Valid
+[2025.10.06-13.55.00:201][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28846.410156
+[2025.10.06-13.55.01:198][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-13.55.01:198][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28847.072266, Update Interval: 354.233826
