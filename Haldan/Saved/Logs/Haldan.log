@@ -2407,3 +2407,799 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.06-06.24.58:370][394]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.06-06.24.58:370][394]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.06-06.24.58:373][394]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.10.06-06.25.31:440][121]Cmd: EDIT COPY
+[2025.10.06-06.25.31:623][136]Cmd: EDIT PASTE
+[2025.10.06-06.25.47:955][937]Cmd: EDIT COPY
+[2025.10.06-06.25.48:235][965]Cmd: EDIT PASTE
+[2025.10.06-06.26.00:965][353]Cmd: EDIT COPY
+[2025.10.06-06.26.01:187][376]Cmd: EDIT PASTE
+[2025.10.06-06.26.27:139][592]Cmd: EDIT COPY
+[2025.10.06-06.26.27:415][624]Cmd: EDIT PASTE
+[2025.10.06-06.26.43:875][446]Cmd: EDIT COPY
+[2025.10.06-06.26.44:111][471]Cmd: EDIT PASTE
+[2025.10.06-06.27.14:055][698]Cmd: EDIT COPY
+[2025.10.06-06.27.14:272][722]Cmd: EDIT PASTE
+[2025.10.06-06.29.08:827][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.06-06.29.11:308][218]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.06-06.29.11:405][218]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ChatGPT_Image_6_oct_2025__00_22_32_Mat.ChatGPT_Image_6_oct_2025__00_22_32_Mat
+	Asset Type: Material
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.PackageMetaData in its package
+[2025.10.06-06.29.11:819][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.PackageMetaData in its package
+[2025.10.06-06.29.11:820][218]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC366836EA59502_1639220882 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/6Q/934XKJOP31EMP6W2U68SEY.PackageMetaData in its package
+[2025.10.06-06.29.11:822][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.06-06.29.11:841][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.06-06.29.11:858][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.10.06-06.29.11:895][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.06-06.29.11:936][218]LogAutomationController: Ignoring very large delta of 3.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.06-06.29.11:936][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2098.007568
+[2025.10.06-06.29.12:176][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-06.29.12:176][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2098.228760, Update Interval: 317.034821
+[2025.10.06-06.29.12:909][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.10.06-06.29.13:670][307]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.06-06.29.13:705][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.06-06.29.13:726][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.06-06.29.13:741][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.06-06.29.22:604][581]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.29.22:640][581]LogInterchangeEngine: [Pending] Importing
+[2025.10.06-06.29.22:641][581]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Downloads/backrooms_floor_roughness.png]
+[2025.10.06-06.29.23:317][583]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.29.23:620][585]LogTexture: Display: Building textures: /Game/backrooms_floor_roughness.backrooms_floor_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2025.10.06-06.29.23:967][585]LogInterchangeEngine: Display: Interchange import completed [C:/Users/aleja/Downloads/backrooms_floor_roughness.png]
+[2025.10.06-06.29.23:972][585]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.06-06.29.23:972][585]LogInterchangeEngine: [Success] Import Done
+[2025.10.06-06.29.30:897][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.06-06.29.31:918][182]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.06-06.29.32:011][182]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/backrooms_floor_roughness.backrooms_floor_roughness
+	Asset Type: Texture2D
+[2025.10.06-06.29.32:137][182]LogMaterial: Warning: [AssetLog] /Game/backrooms_floor_roughness_Mat.backrooms_floor_roughness_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.06-06.29.32:138][182]LogMaterial: Warning: [AssetLog] /Game/backrooms_floor_roughness_Mat.backrooms_floor_roughness_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.06-06.29.32:180][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.06-06.29.32:194][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.06-06.29.32:204][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.06-06.29.32:900][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.06-06.29.34:285][245]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.06-06.29.34:364][245]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/backrooms_floor_roughness_Mat.backrooms_floor_roughness_Mat
+	Asset Type: Material
+[2025.10.06-06.29.34:541][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.10.06-06.29.34:554][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.06-06.29.34:567][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.10.06-06.29.42:982][316]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.29.43:013][316]LogInterchangeEngine: [Pending] Importing
+[2025.10.06-06.29.43:013][316]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Downloads/backrooms_floor_albedo.png]
+[2025.10.06-06.29.43:681][318]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.29.43:998][320]LogTexture: Display: Building textures: /Game/backrooms_floor_albedo.backrooms_floor_albedo (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.10.06-06.29.44:340][320]LogInterchangeEngine: Display: Interchange import completed [C:/Users/aleja/Downloads/backrooms_floor_albedo.png]
+[2025.10.06-06.29.44:347][320]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.06-06.29.44:347][320]LogInterchangeEngine: [Success] Import Done
+[2025.10.06-06.29.48:213][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.06-06.29.48:220][568]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.06-06.29.48:220][568]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.06-06.29.48:222][568]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.372 ms (total: 31.094 ms)
+[2025.10.06-06.29.48:222][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.06-06.29.48:259][568]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.29.48:266][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007159s)
+[2025.10.06-06.29.48:266][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007259s)
+[2025.10.06-06.29.48:291][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.06-06.29.48:293][568]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.06-06.29.48:296][568]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.06-06.29.48:296][568]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.06-06.29.48:296][568]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.06-06.29.48:296][568]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.06-06.29.48:298][568]LogWorldPartition: Display: WorldPartition initialize took 1.850 ms (total: 94.231 ms)
+[2025.10.06-06.29.48:298][568]LogPlayLevel: PIE: World Init took: (0.004628s)
+[2025.10.06-06.29.48:299][568]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.06-06.29.48:299][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.06-06.29.48:299][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.06-06.29.48:299][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.06-06.29.48:299][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.06-06.29.48:299][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.06-06.29.48:303][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.06-06.29.48:442][568]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.06-06.29.48:443][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.06-06.29.48:443][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.06-06.29.48:443][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.06-06.29.48:443][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.06-06.29.48:443][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.06-06.29.48:447][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.06-06.29.48:447][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.06-06.29.48:447][568]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.06-06.29.48:447][568]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.10.06-06.29.48:447][568]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.06-06.29.48:451][568]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.06-06.29.48:452][568]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.10.06-00.29.48
+[2025.10.06-06.29.48:453][568]LogWorld: Bringing up level for play took: 0.001673
+[2025.10.06-06.29.48:455][568]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.10.06-06.29.48:462][568]PIE: Server logged in
+[2025.10.06-06.29.48:463][568]PIE: Play in editor total start time 0.244 seconds.
+[2025.10.06-06.29.52:599][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.29.52:599][  8]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.29.52:599][  8]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-06.29.52:600][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.29.52:600][  8]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.06-06.29.52:606][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.06-06.29.52:609][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.29.52:629][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.06-06.29.52:630][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.06-06.29.52:630][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.06-06.29.52:632][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.06-06.29.52:643][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.29.52:646][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.06-06.29.52:745][  9]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.06-06.30.57:091][515]Cmd: EDIT COPY
+[2025.10.06-06.30.57:312][540]Cmd: EDIT PASTE
+[2025.10.06-06.31.11:335][ 40]Cmd: EDIT COPY
+[2025.10.06-06.31.11:580][ 67]Cmd: EDIT PASTE
+[2025.10.06-06.32.32:908][394]Cmd: EDIT COPY
+[2025.10.06-06.32.33:150][422]Cmd: EDIT PASTE
+[2025.10.06-06.32.35:910][711]Cmd: TRANSACTION UNDO
+[2025.10.06-06.32.35:910][711]LogEditorTransaction: Undo Scale Elements
+[2025.10.06-06.33.17:245][163]Cmd: EDIT COPY
+[2025.10.06-06.33.17:497][192]Cmd: EDIT PASTE
+[2025.10.06-06.33.27:195][275]Cmd: EDIT COPY
+[2025.10.06-06.33.32:895][917]Cmd: EDIT COPY
+[2025.10.06-06.33.33:284][961]Cmd: EDIT PASTE
+[2025.10.06-06.34.00:429][823]Cmd: EDIT COPY
+[2025.10.06-06.34.00:633][847]Cmd: EDIT PASTE
+[2025.10.06-06.34.17:472][712]Cmd: EDIT COPY
+[2025.10.06-06.34.17:681][737]Cmd: EDIT PASTE
+[2025.10.06-06.35.01:519][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2447.599609
+[2025.10.06-06.35.01:635][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-06.35.01:635][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2447.698975, Update Interval: 346.475403
+[2025.10.06-06.35.34:337][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.06-06.35.34:340][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto3
+[2025.10.06-06.35.34:340][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/4C12OJFFZH4RWGFARIFV8I_Auto3A0B12DF64D84B9B7A3D2DCB8DC700638.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto3.uasset'
+[2025.10.06-06.35.34:343][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto3
+[2025.10.06-06.35.34:343][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5LV56FNEQ0O2YDSIK3LKAN_Auto3628F5CAD4AA1DFCFBFFBE58B513A2F81.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto3.uasset'
+[2025.10.06-06.35.34:346][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto3
+[2025.10.06-06.35.34:346][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/VGDWEDXEZI0VB4DXI450ID_Auto3635DA4D34599DF30A109FCA8484E8A0B.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto3.uasset'
+[2025.10.06-06.35.34:347][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto3
+[2025.10.06-06.35.34:348][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto3CC7FD1F84E8B8607AC14B7A2F464C202.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto3.uasset'
+[2025.10.06-06.35.34:352][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto3
+[2025.10.06-06.35.34:352][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RTQIOPHUGHI7C4NM5YCVGT_Auto3B6EF293A4885B2AEBD597FACDF108531.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto3.uasset'
+[2025.10.06-06.35.34:355][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto3
+[2025.10.06-06.35.34:355][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/6S9KJO1QJV5R0IXPNWY5GI_Auto377F307CB4EFC60D5B391ACB8A8F1F201.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto3.uasset'
+[2025.10.06-06.35.34:358][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto3
+[2025.10.06-06.35.34:358][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/MSPIQ4UIQ6NTUC6IEO6V04_Auto3418FF87541E9C13CF42A589478E08FAC.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto3.uasset'
+[2025.10.06-06.35.34:360][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto3
+[2025.10.06-06.35.34:361][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7OZSJB47Y1N7GRRAH5BS70_Auto371C6833040445C0D0BB747B9C0DA67EF.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto3.uasset'
+[2025.10.06-06.35.34:363][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto3
+[2025.10.06-06.35.34:363][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/80WKY1VEO16AI82UVJED62_Auto3572C035C48F8E8A0E3BE9795BDB96E05.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto3.uasset'
+[2025.10.06-06.35.34:365][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto3
+[2025.10.06-06.35.34:365][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/9L1IPQ52JV4CSRI7PLR3LT_Auto3A6379C1948F5DA97EC55E3A0FF6C072D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto3.uasset'
+[2025.10.06-06.35.34:367][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto3
+[2025.10.06-06.35.34:367][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/GDUG48DUR3CND9V9BT69HS_Auto3D702E869465A0DA19ED0478C43D08556.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto3.uasset'
+[2025.10.06-06.35.34:370][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto3
+[2025.10.06-06.35.34:370][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/G9DU88AB2CNJZK054FTL32_Auto3523ED1B74A4AAAB2143610BDB05A385E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto3.uasset'
+[2025.10.06-06.35.34:372][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YD/9Q4PAO1LTZ20VABKX24YVR_Auto3
+[2025.10.06-06.35.34:372][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/9Q4PAO1LTZ20VABKX24YVR_Auto37B26334D4D87D0DE49F65C8FB4F97F3F.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YD/9Q4PAO1LTZ20VABKX24YVR_Auto3.uasset'
+[2025.10.06-06.35.34:375][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto3
+[2025.10.06-06.35.34:375][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/8I6MTKGG3AQW1HABN673IM_Auto3E83F5CF3433F98CF7200DF9D1E470F75.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto3.uasset'
+[2025.10.06-06.35.34:378][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto3
+[2025.10.06-06.35.34:378][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N39WACH30SXBVN8U3OGUA5_Auto331A3D9F9476C698432D102A42E0B511A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto3.uasset'
+[2025.10.06-06.35.34:380][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto3
+[2025.10.06-06.35.34:380][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/1LCOIKLXEINVMCUNCQIXLZ_Auto332894EAD45E1D30E2065A088F80FD5E7.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto3.uasset'
+[2025.10.06-06.35.34:383][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto3
+[2025.10.06-06.35.34:383][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/OE0HZR2KX09990M66ALDUH_Auto3D8C9F48348EEDF82720D2DA5D8DD0221.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto3.uasset'
+[2025.10.06-06.35.34:387][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto3
+[2025.10.06-06.35.34:387][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/YAL10POUXVQ1WXDF320A6X_Auto3D08A20754082B6CBD53DDDA7677ED482.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto3.uasset'
+[2025.10.06-06.35.34:389][104]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.078
+[2025.10.06-06.35.34:389][104]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2025.10.06-06.35.34:389][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/backrooms_floor_albedo] ([1] browsable assets)...
+[2025.10.06-06.35.34:395][104]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/backrooms_floor_albedo.backrooms_floor_albedo]
+[2025.10.06-06.35.34:395][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/backrooms_floor_albedo]
+[2025.10.06-06.35.34:410][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/backrooms_floor_albedo_Auto3
+[2025.10.06-06.35.34:410][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedo_Auto354A84BC546DF14E4EBB23C8DD0ED62E1.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/backrooms_floor_albedo_Auto3.uasset'
+[2025.10.06-06.35.34:412][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/backrooms_floor_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-06.35.34:430][104]OBJ SavePackage:     Rendered thumbnail for [Material /Game/backrooms_floor_albedo_Mat.backrooms_floor_albedo_Mat]
+[2025.10.06-06.35.34:431][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/backrooms_floor_albedo_Mat]
+[2025.10.06-06.35.34:433][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/backrooms_floor_albedo_Mat_Auto3
+[2025.10.06-06.35.34:433][104]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedo_Mat_Auto3735BC9544E9D9FDAD5C1F5B89315D7ED.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/backrooms_floor_albedo_Mat_Auto3.uasset'
+[2025.10.06-06.35.34:434][104]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.10.06-06.36.17:177][912]Cmd: EDIT COPY
+[2025.10.06-06.36.17:383][924]Cmd: EDIT PASTE
+[2025.10.06-06.36.23:937][303]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.06-06.36.23:944][303]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.06-06.36.23:944][303]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.06-06.36.23:947][303]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.115 ms (total: 34.209 ms)
+[2025.10.06-06.36.23:948][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.06-06.36.23:948][303]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.36.23:951][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2025.10.06-06.36.23:951][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003668s)
+[2025.10.06-06.36.23:963][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.06-06.36.23:965][303]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.06-06.36.23:968][303]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.06-06.36.23:968][303]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.06-06.36.23:968][303]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.06-06.36.23:968][303]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.06-06.36.23:969][303]LogWorldPartition: Display: WorldPartition initialize took 1.363 ms (total: 95.594 ms)
+[2025.10.06-06.36.23:969][303]LogPlayLevel: PIE: World Init took: (0.003354s)
+[2025.10.06-06.36.23:970][303]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.06-06.36.23:970][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.06-06.36.23:970][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.06-06.36.23:970][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.06-06.36.23:970][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.06-06.36.23:970][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.06-06.36.23:975][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.06-06.36.24:105][303]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.06-06.36.24:105][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.06-06.36.24:105][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.06-06.36.24:105][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.06-06.36.24:107][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.06-06.36.24:107][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.06-06.36.24:110][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.06-06.36.24:110][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.06-06.36.24:110][303]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.06-06.36.24:110][303]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.10.06-06.36.24:110][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.06-06.36.24:114][303]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.06-06.36.24:118][303]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.06-00.36.24
+[2025.10.06-06.36.24:118][303]LogWorld: Bringing up level for play took: 0.002480
+[2025.10.06-06.36.24:122][303]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.10.06-06.36.24:131][303]PIE: Server logged in
+[2025.10.06-06.36.24:132][303]PIE: Play in editor total start time 0.188 seconds.
+[2025.10.06-06.36.28:888][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.36.28:888][583]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.36.28:888][583]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-06.36.28:890][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.36.28:890][583]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.06-06.36.28:897][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.06-06.36.28:900][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.36.28:917][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.36.28:918][583]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.06-06.36.28:918][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.06-06.36.28:922][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.06-06.36.28:936][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.06-06.36.29:048][584]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.06-06.36.33:852][870]Cmd: DELETE
+[2025.10.06-06.36.33:852][870]Cmd: ACTOR DELETE
+[2025.10.06-06.36.33:854][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.06-06.36.33:869][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.06-06.36.33:871][870]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.10.06-06.38.03:531][437]LogSlate: Window 'Save Level As' being destroyed
+[2025.10.06-06.41.42:052][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2848.129150
+[2025.10.06-06.41.43:047][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-06.41.43:047][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2848.794434, Update Interval: 301.038239
+[2025.10.06-06.44.47:969][913]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.44.48:010][913]LogInterchangeEngine: [Pending] Importing
+[2025.10.06-06.44.48:010][913]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Downloads/bloody_wall_albedo.png]
+[2025.10.06-06.44.48:705][915]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.44.48:987][917]LogTexture: Display: Building textures: /Game/bloody_wall_albedo.bloody_wall_albedo (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.10.06-06.44.49:327][917]LogInterchangeEngine: Display: Interchange import completed [C:/Users/aleja/Downloads/bloody_wall_albedo.png]
+[2025.10.06-06.44.49:335][917]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.06-06.44.49:335][917]LogInterchangeEngine: [Success] Import Done
+[2025.10.06-06.45.06:439][976]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.45.06:472][976]LogInterchangeEngine: [Pending] Importing
+[2025.10.06-06.45.06:472][976]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/aleja/Downloads/dirty_wall_albedo.png]
+[2025.10.06-06.45.07:148][979]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-06.45.07:454][980]LogTexture: Display: Building textures: /Game/dirty_wall_albedo.dirty_wall_albedo (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.10.06-06.45.07:797][980]LogInterchangeEngine: Display: Interchange import completed [C:/Users/aleja/Downloads/dirty_wall_albedo.png]
+[2025.10.06-06.45.07:802][980]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.06-06.45.07:802][980]LogInterchangeEngine: [Success] Import Done
+[2025.10.06-06.45.44:599][897]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.06-06.45.44:605][897]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.06-06.45.44:605][897]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.06-06.45.44:609][897]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.299 ms (total: 38.508 ms)
+[2025.10.06-06.45.44:609][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.06-06.45.44:609][897]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.45.44:613][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003799s)
+[2025.10.06-06.45.44:613][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003846s)
+[2025.10.06-06.45.44:629][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.06-06.45.44:632][897]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.06-06.45.44:634][897]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.06-06.45.44:634][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.06-06.45.44:634][897]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.06-06.45.44:634][897]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.06-06.45.44:635][897]LogWorldPartition: Display: WorldPartition initialize took 1.339 ms (total: 96.933 ms)
+[2025.10.06-06.45.44:636][897]LogPlayLevel: PIE: World Init took: (0.003848s)
+[2025.10.06-06.45.44:637][897]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.06-06.45.44:637][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.06-06.45.44:637][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.06-06.45.44:637][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.06-06.45.44:637][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.06-06.45.44:637][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.06-06.45.44:639][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.06-06.45.44:747][897]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.06-06.45.44:747][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.06-06.45.44:747][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.06-06.45.44:747][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.06-06.45.44:748][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.06-06.45.44:748][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.06-06.45.44:751][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.06-06.45.44:751][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.06-06.45.44:751][897]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.06-06.45.44:751][897]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.10.06-06.45.44:751][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.06-06.45.44:755][897]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.06-06.45.44:757][897]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.06-00.45.44
+[2025.10.06-06.45.44:757][897]LogWorld: Bringing up level for play took: 0.001711
+[2025.10.06-06.45.44:760][897]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.06-06.45.44:767][897]PIE: Server logged in
+[2025.10.06-06.45.44:768][897]PIE: Play in editor total start time 0.164 seconds.
+[2025.10.06-06.45.48:019][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.45.48:019][ 87]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.45.48:019][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-06.45.48:020][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.45.48:020][ 87]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.06-06.45.48:024][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.06-06.45.48:027][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.45.48:043][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.06-06.45.48:043][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.06-06.45.48:043][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.06-06.45.48:046][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.06-06.45.48:051][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.45.48:053][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.06-06.45.48:108][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.06-06.46.53:837][167]Cmd: DELETE
+[2025.10.06-06.46.53:837][167]Cmd: ACTOR DELETE
+[2025.10.06-06.46.53:839][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.06-06.46.53:857][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.06-06.46.53:859][167]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.10.06-06.47.30:785][314]Cmd: EDIT COPY
+[2025.10.06-06.47.31:019][328]Cmd: EDIT PASTE
+[2025.10.06-06.47.35:968][620]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.06-06.47.39:642][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3205.707520
+[2025.10.06-06.47.39:791][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-06.47.39:791][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3205.840576, Update Interval: 354.878387
+[2025.10.06-06.47.41:958][979]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.06-06.47.49:507][419]Cmd: EDIT COPY
+[2025.10.06-06.47.49:707][431]Cmd: EDIT PASTE
+[2025.10.06-06.48.09:474][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.06-06.48.09:484][594]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.06-06.48.09:484][594]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.06-06.48.09:489][594]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.148 ms (total: 42.656 ms)
+[2025.10.06-06.48.09:489][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.06-06.48.09:489][594]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.48.09:493][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004451s)
+[2025.10.06-06.48.09:493][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004494s)
+[2025.10.06-06.48.09:507][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.06-06.48.09:508][594]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.06-06.48.09:510][594]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.06-06.48.09:510][594]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.06-06.48.09:510][594]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.06-06.48.09:510][594]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.06-06.48.09:512][594]LogWorldPartition: Display: WorldPartition initialize took 1.329 ms (total: 98.263 ms)
+[2025.10.06-06.48.09:512][594]LogPlayLevel: PIE: World Init took: (0.003297s)
+[2025.10.06-06.48.09:513][594]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.06-06.48.09:513][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.06-06.48.09:513][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.06-06.48.09:513][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.06-06.48.09:513][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.06-06.48.09:513][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.06-06.48.09:516][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.06-06.48.09:637][594]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.06-06.48.09:638][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.06-06.48.09:638][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.06-06.48.09:638][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.06-06.48.09:639][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.06-06.48.09:639][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.06-06.48.09:641][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.06-06.48.09:641][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.06-06.48.09:641][594]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.06-06.48.09:641][594]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.10.06-06.48.09:641][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.06-06.48.09:644][594]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.06-06.48.09:647][594]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.06-00.48.09
+[2025.10.06-06.48.09:647][594]LogWorld: Bringing up level for play took: 0.001670
+[2025.10.06-06.48.09:650][594]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.06-06.48.09:655][594]PIE: Server logged in
+[2025.10.06-06.48.09:656][594]PIE: Play in editor total start time 0.172 seconds.
+[2025.10.06-06.48.27:288][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.48.27:288][647]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.06-06.48.27:288][647]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-06.48.27:290][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.48.27:290][647]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.06-06.48.27:297][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.06-06.48.27:300][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-06.48.27:316][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-06.48.27:316][647]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.06-06.48.27:317][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.06-06.48.27:320][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.06-06.48.27:333][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.06-06.48.27:439][648]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.06-06.49.50:173][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.06-06.49.50:176][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto4
+[2025.10.06-06.49.50:176][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7A7OACZL0QP7DGG1NZ5833_Auto46051696B48B719BB00722CB3E95442B9.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto4.uasset'
+[2025.10.06-06.49.50:181][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto4
+[2025.10.06-06.49.50:181][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/XD77H1O3HED2HXWDATMEGD_Auto4EAEF37E1467D713835F8D092DC365277.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto4.uasset'
+[2025.10.06-06.49.50:183][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto4
+[2025.10.06-06.49.50:183][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/T8CEA6LF7C69NHJKEEM41P_Auto4A56000094BB4B73D86DA5C9AB58125E2.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto4.uasset'
+[2025.10.06-06.49.50:186][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto4
+[2025.10.06-06.49.50:186][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/4C12OJFFZH4RWGFARIFV8I_Auto4092DADC44D284978503D468D645F08DF.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto4.uasset'
+[2025.10.06-06.49.50:188][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto4
+[2025.10.06-06.49.50:189][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5QH90BRWLCFFTHMF9RZBE9_Auto4609332D345B8832B06330C918AD1B8E8.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto4.uasset'
+[2025.10.06-06.49.50:192][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto4
+[2025.10.06-06.49.50:192][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5LV56FNEQ0O2YDSIK3LKAN_Auto4B5EF1EEB4A434BC13F86CC9E6770BBD0.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto4.uasset'
+[2025.10.06-06.49.50:195][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto4
+[2025.10.06-06.49.50:195][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/UZA3IA3OVI234MAT45RGFX_Auto4EF31F9B844008FB3E71944956F608371.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto4.uasset'
+[2025.10.06-06.49.50:198][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto4
+[2025.10.06-06.49.50:198][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/64Q9EBQ9Y9T30UCU7VOP42_Auto44CA831EE478143D47ADD84911F2D4A94.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto4.uasset'
+[2025.10.06-06.49.50:201][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto4
+[2025.10.06-06.49.50:201][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AW4953OJG7R4HK024G155K_Auto49E806DD2408CDCFC3BD4E09A8F8CE541.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto4.uasset'
+[2025.10.06-06.49.50:203][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto4
+[2025.10.06-06.49.50:203][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/VGDWEDXEZI0VB4DXI450ID_Auto4C0F952874199171E4950C8ABE882F95B.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto4.uasset'
+[2025.10.06-06.49.50:205][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto4
+[2025.10.06-06.49.50:205][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AHEOTD1NGATEDYNWT3M4E6_Auto4050A6E6649EC2C550BA78D9CB4B58628.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto4.uasset'
+[2025.10.06-06.49.50:208][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto4
+[2025.10.06-06.49.50:208][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N19L2SASRSNSB3YNKFPZ1A_Auto4650C3CF9442C79A482CCE9864B378D2D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto4.uasset'
+[2025.10.06-06.49.50:210][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto4
+[2025.10.06-06.49.50:210][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/S6BMYXULGWK82GARN6Q8QJ_Auto442B7B84C4F93870FC6524C835350BE24.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto4.uasset'
+[2025.10.06-06.49.50:212][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto4
+[2025.10.06-06.49.50:212][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/3GUHCZBH4O0FV61QHKSHDZ_Auto4E5BE2EE04D3649964B83BEA3E373DDD4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto4.uasset'
+[2025.10.06-06.49.50:214][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto4
+[2025.10.06-06.49.50:215][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/BOVZ7OPX5VTVVI03PDL78B_Auto45D7026934494C6A74043BCA423AE9F64.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto4.uasset'
+[2025.10.06-06.49.50:217][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4
+[2025.10.06-06.49.50:217][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4BC289818400403006942038BC0DC595B.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4.uasset'
+[2025.10.06-06.49.50:220][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto4
+[2025.10.06-06.49.50:220][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/CSBJC46FQLLRENYE445SBM_Auto4DDAE68F84C89DCDA11CA8A9CA99B7393.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto4.uasset'
+[2025.10.06-06.49.50:222][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto4
+[2025.10.06-06.49.50:222][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RTQIOPHUGHI7C4NM5YCVGT_Auto457F4F1804A6CB01D3C855BA171F130FF.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto4.uasset'
+[2025.10.06-06.49.50:225][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto4
+[2025.10.06-06.49.50:225][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/TK50X9ZK3H044VC1YFEBXU_Auto41E4A05CD423363E868AD01A00C6CEAA4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto4.uasset'
+[2025.10.06-06.49.50:227][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto4
+[2025.10.06-06.49.50:227][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/6S9KJO1QJV5R0IXPNWY5GI_Auto4CC9DB2AF4C66D2133520AE9DBB753964.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto4.uasset'
+[2025.10.06-06.49.50:229][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto4
+[2025.10.06-06.49.50:229][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/MSPIQ4UIQ6NTUC6IEO6V04_Auto4AAC249FD404C6EBCD7E9D0A70A9E3FCC.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto4.uasset'
+[2025.10.06-06.49.50:231][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto4
+[2025.10.06-06.49.50:231][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7OZSJB47Y1N7GRRAH5BS70_Auto43A94AE9941CD6EC74C456C8C47FB76B9.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto4.uasset'
+[2025.10.06-06.49.50:234][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto4
+[2025.10.06-06.49.50:234][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/80WKY1VEO16AI82UVJED62_Auto4735B29854D76EE5B2199148CCA493683.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto4.uasset'
+[2025.10.06-06.49.50:237][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto4
+[2025.10.06-06.49.50:237][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/9L1IPQ52JV4CSRI7PLR3LT_Auto407BB09D349CC8B742367E9ACF159C25E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto4.uasset'
+[2025.10.06-06.49.50:239][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto4
+[2025.10.06-06.49.50:239][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/GDUG48DUR3CND9V9BT69HS_Auto4585C58964F948CF3400018B84105037A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto4.uasset'
+[2025.10.06-06.49.50:241][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto4
+[2025.10.06-06.49.50:241][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/G9DU88AB2CNJZK054FTL32_Auto4AD66CD46487A8304D5F32BA4A0A66A95.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto4.uasset'
+[2025.10.06-06.49.50:244][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto4
+[2025.10.06-06.49.50:244][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/8I6MTKGG3AQW1HABN673IM_Auto468CA6D024A280BA0A1D06BAB20BB500D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto4.uasset'
+[2025.10.06-06.49.50:245][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto4
+[2025.10.06-06.49.50:245][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N39WACH30SXBVN8U3OGUA5_Auto40E94D9494DD88AB46E539C946BBAE118.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto4.uasset'
+[2025.10.06-06.49.50:248][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto4
+[2025.10.06-06.49.50:248][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/1LCOIKLXEINVMCUNCQIXLZ_Auto4ACC16B9C4155502CD137D0808453AC99.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto4.uasset'
+[2025.10.06-06.49.50:249][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto4
+[2025.10.06-06.49.50:251][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/OE0HZR2KX09990M66ALDUH_Auto414F25B0F4C2FE5D96AAA77A29A4342A5.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto4.uasset'
+[2025.10.06-06.49.50:253][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto4
+[2025.10.06-06.49.50:253][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/YAL10POUXVQ1WXDF320A6X_Auto4D96C4E4543666CBA2A5D849305A5E0AB.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto4.uasset'
+[2025.10.06-06.49.50:255][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto4
+[2025.10.06-06.49.50:255][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/SD064IGO2UYPUGN4JDJ4B4_Auto4349F41F5407E0918A6369B88D39A5226.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto4.uasset'
+[2025.10.06-06.49.50:257][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto4
+[2025.10.06-06.49.50:257][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RUGSPJPE9QYVOVE1RUWAT7_Auto4A64D01CB401E0DB172107A92D27EF6AE.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto4.uasset'
+[2025.10.06-06.49.50:258][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.131
+[2025.10.06-06.49.50:258][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2025.10.06-06.49.50:259][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bloody_wall_albedo] ([1] browsable assets)...
+[2025.10.06-06.49.50:265][189]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/bloody_wall_albedo.bloody_wall_albedo]
+[2025.10.06-06.49.50:265][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/bloody_wall_albedo]
+[2025.10.06-06.49.50:271][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bloody_wall_albedo_Auto4
+[2025.10.06-06.49.50:271][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedo_Auto4DE374A304DBF7270B5359591B1A6F9E1.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/bloody_wall_albedo_Auto4.uasset'
+[2025.10.06-06.49.50:272][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/dirty_wall_albedo] ([1] browsable assets)...
+[2025.10.06-06.49.50:275][189]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/dirty_wall_albedo.dirty_wall_albedo]
+[2025.10.06-06.49.50:275][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/dirty_wall_albedo]
+[2025.10.06-06.49.50:278][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/dirty_wall_albedo_Auto4
+[2025.10.06-06.49.50:278][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo_Auto4F3E542344CA7F5C9025B6BBB35854A4A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/dirty_wall_albedo_Auto4.uasset'
+[2025.10.06-06.49.50:280][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bloody_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-06.49.50:296][189]OBJ SavePackage:     Rendered thumbnail for [Material /Game/bloody_wall_albedo_Mat.bloody_wall_albedo_Mat]
+[2025.10.06-06.49.50:296][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/bloody_wall_albedo_Mat]
+[2025.10.06-06.49.50:298][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bloody_wall_albedo_Mat_Auto4
+[2025.10.06-06.49.50:298][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedo_Mat_Auto47F48125840949236B0A612B39273F79E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/bloody_wall_albedo_Mat_Auto4.uasset'
+[2025.10.06-06.49.50:299][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/dirty_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-06.49.50:313][189]OBJ SavePackage:     Rendered thumbnail for [Material /Game/dirty_wall_albedo_Mat.dirty_wall_albedo_Mat]
+[2025.10.06-06.49.50:313][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/dirty_wall_albedo_Mat]
+[2025.10.06-06.49.50:315][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/dirty_wall_albedo_Mat_Auto4
+[2025.10.06-06.49.50:315][189]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo_Mat_Auto44C0C25204EADDA4DFB590D89ED41972E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/dirty_wall_albedo_Mat_Auto4.uasset'
+[2025.10.06-06.49.50:316][189]LogFileHelpers: Auto-saving content packages took 0.057
+[2025.10.06-06.54.25:428][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3611.492920
+[2025.10.06-06.54.26:428][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-06.54.26:428][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3612.158936, Update Interval: 322.317566
+[2025.10.06-06.56.01:852][305]LogDerivedDataCache: C:/Users/aleja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.06-07.00.46:233][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3992.300049
+[2025.10.06-07.00.47:235][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.00.47:235][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3992.969238, Update Interval: 330.180359
+[2025.10.06-07.07.07:410][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4373.488281
+[2025.10.06-07.07.08:411][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.07.08:411][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4374.155273, Update Interval: 328.953522
+[2025.10.06-07.08.26:072][570]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.06-07.08.26:092][570]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.06-07.08.26:098][570]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.06-07.08.26:133][571]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.06-07.08.27:757][669]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_CartelTexto
+[2025.10.06-07.08.27:789][669]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.06-07.08.28:949][735]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WBP_CartelTexto.WBP_CartelTexto
+[2025.10.06-07.08.28:949][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.06-07.08.28:959][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.06-07.08.28:974][735]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.06-07.08.29:096][735]LogSlate: Took 0.017402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.06-07.08.29:254][735]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-07.08.32:090][735]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.06-07.08.32:091][735]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.06-07.08.32:472][735]LogSlate: Took 0.009202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.06-07.08.32:492][735]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.10.06-07.08.32:501][735]LogSlate: Took 0.008646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.06-07.08.32:569][735]LogAutomationController: Ignoring very large delta of 3.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.06-07.08.37:591][883]LogSlate: Window 'WBP_CartelTexto' being destroyed
+[2025.10.06-07.09.56:839][923]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.10.48:097][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.06-07.11.38:495][ 79]LogEditorTransaction: Undo Replace Widgets
+[2025.10.06-07.11.52:525][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.06-07.12.03:673][570]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.06-07.12.03:695][570]LogTexture: Display: Building textures: /AudioWidgets/AudioKnobSmall/AudioKnobSmall_TextLayer01.AudioKnobSmall_TextLayer01 (TFO_AutoDXT, 104x48 x1x1x1) (Required Memory Estimate: 1.787109 MB), EncodeSpeed: Fast
+[2025.10.06-07.12.50:803][101]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:805][101]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:861][102]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:871][102]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:881][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:883][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:890][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:939][104]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:956][105]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.50:960][105]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:009][106]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:018][106]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:083][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:094][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:163][111]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:212][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:906][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:908][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:964][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:975][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:984][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.51:988][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:038][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:053][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:054][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:099][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:106][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:133][153]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:151][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:183][156]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:185][156]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:201][157]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:215][158]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:233][159]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:235][159]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:251][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:266][161]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:284][162]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:300][163]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:334][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:352][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:384][168]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:400][169]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:432][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.12.52:433][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.06-07.13.05:389][935]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.13.22:102][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4748.149414
+[2025.10.06-07.13.22:441][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.13.22:441][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4748.309082, Update Interval: 332.991119
+[2025.10.06-07.13.24:256][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.06-07.14.07:942][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.06-07.14.07:946][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto5
+[2025.10.06-07.14.07:946][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7A7OACZL0QP7DGG1NZ5833_Auto568ABD71B451B233F4EE268A196CF7230.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MX/7A7OACZL0QP7DGG1NZ5833_Auto5.uasset'
+[2025.10.06-07.14.07:948][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto5
+[2025.10.06-07.14.07:948][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/XD77H1O3HED2HXWDATMEGD_Auto5D0FC0DEE4CB03C180E37CD8998E1367A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XX/XD77H1O3HED2HXWDATMEGD_Auto5.uasset'
+[2025.10.06-07.14.07:950][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto5
+[2025.10.06-07.14.07:950][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/T8CEA6LF7C69NHJKEEM41P_Auto51FE32E2749B950CDCE40B0BABFF2AE16.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WE/T8CEA6LF7C69NHJKEEM41P_Auto5.uasset'
+[2025.10.06-07.14.07:951][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto5
+[2025.10.06-07.14.07:952][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/4C12OJFFZH4RWGFARIFV8I_Auto52C3BEBB0434366F7BC360CA141C2D85B.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FS/4C12OJFFZH4RWGFARIFV8I_Auto5.uasset'
+[2025.10.06-07.14.07:953][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto5
+[2025.10.06-07.14.07:953][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5QH90BRWLCFFTHMF9RZBE9_Auto5181906774AB56EFC9EF82AAC2EB4EBD0.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/5QH90BRWLCFFTHMF9RZBE9_Auto5.uasset'
+[2025.10.06-07.14.07:955][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto5
+[2025.10.06-07.14.07:955][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/5LV56FNEQ0O2YDSIK3LKAN_Auto54651B8734A993D48950EEB937985FFFB.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/5LV56FNEQ0O2YDSIK3LKAN_Auto5.uasset'
+[2025.10.06-07.14.07:959][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto5
+[2025.10.06-07.14.07:959][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/UZA3IA3OVI234MAT45RGFX_Auto5B5491EAD4C7912C6867114B085DFE4C3.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3Q/UZA3IA3OVI234MAT45RGFX_Auto5.uasset'
+[2025.10.06-07.14.07:960][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto5
+[2025.10.06-07.14.07:961][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/64Q9EBQ9Y9T30UCU7VOP42_Auto5B20DD00E4ABB5D68F6C67CBBFF741C58.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UR/64Q9EBQ9Y9T30UCU7VOP42_Auto5.uasset'
+[2025.10.06-07.14.07:962][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto5
+[2025.10.06-07.14.07:962][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AW4953OJG7R4HK024G155K_Auto5E765C1BE4008B56036FEBC835AD067D5.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4P/AW4953OJG7R4HK024G155K_Auto5.uasset'
+[2025.10.06-07.14.07:964][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto5
+[2025.10.06-07.14.07:964][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/VGDWEDXEZI0VB4DXI450ID_Auto528EF966847499C0B0982AE9709075643.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/VGDWEDXEZI0VB4DXI450ID_Auto5.uasset'
+[2025.10.06-07.14.07:967][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto5
+[2025.10.06-07.14.07:967][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/AHEOTD1NGATEDYNWT3M4E6_Auto5A145082A44447BE4B6FBCFB0B415B33E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/90/AHEOTD1NGATEDYNWT3M4E6_Auto5.uasset'
+[2025.10.06-07.14.07:969][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto5
+[2025.10.06-07.14.07:969][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N19L2SASRSNSB3YNKFPZ1A_Auto5993B39F14F82CF680AE691817D16648D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WN/N19L2SASRSNSB3YNKFPZ1A_Auto5.uasset'
+[2025.10.06-07.14.07:971][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto5
+[2025.10.06-07.14.07:971][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/S6BMYXULGWK82GARN6Q8QJ_Auto547F34EB648277AC21A3E368EA6EB749C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IP/S6BMYXULGWK82GARN6Q8QJ_Auto5.uasset'
+[2025.10.06-07.14.07:974][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto5
+[2025.10.06-07.14.07:974][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/3GUHCZBH4O0FV61QHKSHDZ_Auto5A98F54B041B89421C4DD59A1F56D06D1.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1L/3GUHCZBH4O0FV61QHKSHDZ_Auto5.uasset'
+[2025.10.06-07.14.07:976][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto5
+[2025.10.06-07.14.07:976][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/BOVZ7OPX5VTVVI03PDL78B_Auto5379D243940CB868243F1B2B1DF066728.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9D/BOVZ7OPX5VTVVI03PDL78B_Auto5.uasset'
+[2025.10.06-07.14.07:978][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto5
+[2025.10.06-07.14.07:978][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto568B9C8994E8C1EC41D6C33827B6D15F3.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto5.uasset'
+[2025.10.06-07.14.07:980][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto5
+[2025.10.06-07.14.07:980][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/CSBJC46FQLLRENYE445SBM_Auto5B6D65DC445DBB72D09BE6083A326A113.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A1/CSBJC46FQLLRENYE445SBM_Auto5.uasset'
+[2025.10.06-07.14.07:983][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto5
+[2025.10.06-07.14.07:983][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RTQIOPHUGHI7C4NM5YCVGT_Auto57F03605A47A57C057D46079C869E781C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BZ/RTQIOPHUGHI7C4NM5YCVGT_Auto5.uasset'
+[2025.10.06-07.14.07:985][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto5
+[2025.10.06-07.14.07:985][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/TK50X9ZK3H044VC1YFEBXU_Auto524C23DE841A4E57594C45E8CCEB92FA4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/TK50X9ZK3H044VC1YFEBXU_Auto5.uasset'
+[2025.10.06-07.14.07:987][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto5
+[2025.10.06-07.14.07:987][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/6S9KJO1QJV5R0IXPNWY5GI_Auto55565A7214BB65B820882BAB2B354B1A5.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DE/6S9KJO1QJV5R0IXPNWY5GI_Auto5.uasset'
+[2025.10.06-07.14.07:990][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto5
+[2025.10.06-07.14.07:990][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/MSPIQ4UIQ6NTUC6IEO6V04_Auto5CEAF613846D2D5FBAD7B56A7893B21CE.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D2/MSPIQ4UIQ6NTUC6IEO6V04_Auto5.uasset'
+[2025.10.06-07.14.07:992][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto5
+[2025.10.06-07.14.07:993][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/7OZSJB47Y1N7GRRAH5BS70_Auto5320DEFCE4D0CE0A80882F0979C339B53.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0B/7OZSJB47Y1N7GRRAH5BS70_Auto5.uasset'
+[2025.10.06-07.14.07:995][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto5
+[2025.10.06-07.14.07:995][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/80WKY1VEO16AI82UVJED62_Auto5E10E8976499F9080D7138C83E0518361.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7K/80WKY1VEO16AI82UVJED62_Auto5.uasset'
+[2025.10.06-07.14.07:997][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto5
+[2025.10.06-07.14.07:997][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/9L1IPQ52JV4CSRI7PLR3LT_Auto5F9B3CCBE4AD4DD68200A70B1238052FD.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/9L1IPQ52JV4CSRI7PLR3LT_Auto5.uasset'
+[2025.10.06-07.14.08:000][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto5
+[2025.10.06-07.14.08:000][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/GDUG48DUR3CND9V9BT69HS_Auto5BBAADBD544AD99E9917B76B38FA519C2.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/GDUG48DUR3CND9V9BT69HS_Auto5.uasset'
+[2025.10.06-07.14.08:002][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto5
+[2025.10.06-07.14.08:002][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/G9DU88AB2CNJZK054FTL32_Auto59E14171843808A6CE8E06695A17ED5A4.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JD/G9DU88AB2CNJZK054FTL32_Auto5.uasset'
+[2025.10.06-07.14.08:005][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto5
+[2025.10.06-07.14.08:005][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/8I6MTKGG3AQW1HABN673IM_Auto5283D42114FAA6FF4BC705F988D810A1D.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XC/8I6MTKGG3AQW1HABN673IM_Auto5.uasset'
+[2025.10.06-07.14.08:007][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto5
+[2025.10.06-07.14.08:007][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/N39WACH30SXBVN8U3OGUA5_Auto59A2E8BDD44F6042744D1F7B095960203.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YY/N39WACH30SXBVN8U3OGUA5_Auto5.uasset'
+[2025.10.06-07.14.08:009][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto5
+[2025.10.06-07.14.08:009][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/1LCOIKLXEINVMCUNCQIXLZ_Auto5CC0794FE49B71536C59E1F9EC498977A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YK/1LCOIKLXEINVMCUNCQIXLZ_Auto5.uasset'
+[2025.10.06-07.14.08:011][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto5
+[2025.10.06-07.14.08:011][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/OE0HZR2KX09990M66ALDUH_Auto5F686DA9644FB33820FEF2D95E025F209.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/OE0HZR2KX09990M66ALDUH_Auto5.uasset'
+[2025.10.06-07.14.08:013][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto5
+[2025.10.06-07.14.08:013][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/YAL10POUXVQ1WXDF320A6X_Auto5F5322DDD42CB2791253CB1B9DF173F7A.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/YAL10POUXVQ1WXDF320A6X_Auto5.uasset'
+[2025.10.06-07.14.08:016][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto5
+[2025.10.06-07.14.08:016][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/SD064IGO2UYPUGN4JDJ4B4_Auto59344D3994E70DFFC4DD0FC9A25825CF1.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XM/SD064IGO2UYPUGN4JDJ4B4_Auto5.uasset'
+[2025.10.06-07.14.08:018][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto5
+[2025.10.06-07.14.08:018][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/RUGSPJPE9QYVOVE1RUWAT7_Auto526BFDDBC441FD30018A21EB931960B6E.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KT/RUGSPJPE9QYVOVE1RUWAT7_Auto5.uasset'
+[2025.10.06-07.14.08:019][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.096
+[2025.10.06-07.14.08:019][ 64]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2025.10.06-07.14.08:019][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/backrooms_floor_albedo] ([1] browsable assets)...
+[2025.10.06-07.14.08:020][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/backrooms_floor_albedo]
+[2025.10.06-07.14.08:028][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/backrooms_floor_albedo_Auto5
+[2025.10.06-07.14.08:028][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedo_Auto5D7A76F044444D16154E2619D6DDD95AE.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/backrooms_floor_albedo_Auto5.uasset'
+[2025.10.06-07.14.08:029][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/backrooms_floor_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.14.08:029][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/backrooms_floor_albedo_Mat]
+[2025.10.06-07.14.08:030][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/backrooms_floor_albedo_Mat_Auto5
+[2025.10.06-07.14.08:030][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedo_Mat_Auto5E37ACB9F49FD9D3C0F9DD9AED72C559C.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/backrooms_floor_albedo_Mat_Auto5.uasset'
+[2025.10.06-07.14.08:030][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bloody_wall_albedo] ([1] browsable assets)...
+[2025.10.06-07.14.08:030][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/bloody_wall_albedo]
+[2025.10.06-07.14.08:034][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bloody_wall_albedo_Auto5
+[2025.10.06-07.14.08:034][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedo_Auto5C58738534B794FD7C96558B8ECE39B36.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/bloody_wall_albedo_Auto5.uasset'
+[2025.10.06-07.14.08:037][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/dirty_wall_albedo] ([1] browsable assets)...
+[2025.10.06-07.14.08:037][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/dirty_wall_albedo]
+[2025.10.06-07.14.08:040][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/dirty_wall_albedo_Auto5
+[2025.10.06-07.14.08:040][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo_Auto53D3A7A38402EA233511484A5C4A5A931.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/dirty_wall_albedo_Auto5.uasset'
+[2025.10.06-07.14.08:041][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bloody_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.14.08:041][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/bloody_wall_albedo_Mat]
+[2025.10.06-07.14.08:042][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bloody_wall_albedo_Mat_Auto5
+[2025.10.06-07.14.08:042][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedo_Mat_Auto51C70FBF94D8895B2B4DA1F8F6A5694AD.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/bloody_wall_albedo_Mat_Auto5.uasset'
+[2025.10.06-07.14.08:043][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/dirty_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.14.08:043][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/dirty_wall_albedo_Mat]
+[2025.10.06-07.14.08:044][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/dirty_wall_albedo_Mat_Auto5
+[2025.10.06-07.14.08:044][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo_Mat_Auto5E12C4D2A47FCE17BC853F6BB9EE65199.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/dirty_wall_albedo_Mat_Auto5.uasset'
+[2025.10.06-07.14.08:045][ 64]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_CartelTexto] ([2] browsable assets)...
+[2025.10.06-07.14.08:053][ 64]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_CartelTexto.WBP_CartelTexto]
+[2025.10.06-07.14.08:053][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_CartelTexto]
+[2025.10.06-07.14.08:059][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_CartelTexto_Auto5
+[2025.10.06-07.14.08:059][ 64]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/WBP_CartelTexto_Auto55F9F3E0D4A17FF865DC6869FCC052CD2.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/Autosaves/Game/WBP_CartelTexto_Auto5.uasset'
+[2025.10.06-07.14.08:060][ 64]LogFileHelpers: Auto-saving content packages took 0.041
+[2025.10.06-07.14.18:671][512]LogSlate: Window 'Widget Reflector' being destroyed
+[2025.10.06-07.14.18:683][512]LogSlate: Window 'Widget Reflector' being destroyed
+[2025.10.06-07.17.38:146][939]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.06-07.19.36:206][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5122.257812
+[2025.10.06-07.19.37:207][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-07.19.37:207][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5122.925781, Update Interval: 352.419189
+[2025.10.06-07.20.08:330][414]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-07.20.08:331][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-07.20.08:339][414]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-07.20.08:339][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-07.20.08:405][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.06-07.20.10:412][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.06-07.20.11:683][532]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.06-07.20.11:729][532]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/WBP_CartelTexto.WBP_CartelTexto
+	Asset Type: WidgetBlueprint
+[2025.10.06-07.20.11:986][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.06-07.20.12:007][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.06-07.20.12:025][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.06-07.20.14:547][678]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.06-07.20.14:554][678]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.06-07.20.14:565][679]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.06-07.20.20:023][  7]LogContentBrowser: Attempting asset rename: NewFolder -> Texturr
+[2025.10.06-07.20.20:026][  7]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.06-07.20.25:960][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.06-07.20.25:960][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/backrooms_floor_albedo] ([1] browsable assets)...
+[2025.10.06-07.20.25:960][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/backrooms_floor_albedo]
+[2025.10.06-07.20.25:971][332]LogSavePackage: Moving output files for package: /Game/Texturr/backrooms_floor_albedo
+[2025.10.06-07.20.25:971][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedoBC7C3C2E4891D884DB3532AA7FE03BE0.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/backrooms_floor_albedo.uasset'
+[2025.10.06-07.20.25:973][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/backrooms_floor_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.20.25:975][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/backrooms_floor_albedo_Mat]
+[2025.10.06-07.20.25:976][332]LogSavePackage: Moving output files for package: /Game/Texturr/backrooms_floor_albedo_Mat
+[2025.10.06-07.20.25:976][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/backrooms_floor_albedo_Mat621F031D44B918875A79C3B847F05146.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/backrooms_floor_albedo_Mat.uasset'
+[2025.10.06-07.20.25:977][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/bloody_wall_albedo] ([1] browsable assets)...
+[2025.10.06-07.20.25:977][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/bloody_wall_albedo]
+[2025.10.06-07.20.25:977][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texturr/bloody_wall_albedo" FILE="../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/bloody_wall_albedo.uasset" SILENT=true
+[2025.10.06-07.20.25:986][332]LogSavePackage: Moving output files for package: /Game/Texturr/bloody_wall_albedo
+[2025.10.06-07.20.25:986][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedoC219F8094A9C790881BF23B7246E3C14.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/bloody_wall_albedo.uasset'
+[2025.10.06-07.20.25:989][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/bloody_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.20.25:989][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/bloody_wall_albedo_Mat]
+[2025.10.06-07.20.25:990][332]LogSavePackage: Moving output files for package: /Game/Texturr/bloody_wall_albedo_Mat
+[2025.10.06-07.20.25:990][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/bloody_wall_albedo_MatBA1485E5433ABE55E3AA909602A32CAD.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/bloody_wall_albedo_Mat.uasset'
+[2025.10.06-07.20.25:991][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/dirty_wall_albedo] ([1] browsable assets)...
+[2025.10.06-07.20.25:991][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/dirty_wall_albedo]
+[2025.10.06-07.20.25:991][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texturr/dirty_wall_albedo" FILE="../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/dirty_wall_albedo.uasset" SILENT=true
+[2025.10.06-07.20.26:000][332]LogSavePackage: Moving output files for package: /Game/Texturr/dirty_wall_albedo
+[2025.10.06-07.20.26:000][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo1A1A2C3D479B8102BF77F2A357382868.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/dirty_wall_albedo.uasset'
+[2025.10.06-07.20.26:002][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Texturr/dirty_wall_albedo_Mat] ([1] browsable assets)...
+[2025.10.06-07.20.26:002][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texturr/dirty_wall_albedo_Mat]
+[2025.10.06-07.20.26:003][332]LogSavePackage: Moving output files for package: /Game/Texturr/dirty_wall_albedo_Mat
+[2025.10.06-07.20.26:003][332]LogSavePackage: Moving '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Saved/dirty_wall_albedo_Mat36F11AAE4370EDFC3AEF56AB1A22EA15.tmp' to '../../../../../../Users/aleja/OneDrive/Documentos/GitHub/reprobados/Haldan/Content/Texturr/dirty_wall_albedo_Mat.uasset'
+[2025.10.06-07.20.26:004][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.898 ms (total: 352.950 ms)
+[2025.10.06-07.20.26:103][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.06-07.20.26:125][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.06-07.20.26:142][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.06-07.20.26:182][332]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.06-07.20.26:182][332]LogContentValidation: Display: Starting to validate 6 assets
+[2025.10.06-07.20.26:182][332]LogContentValidation: Enabled validators:
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.06-07.20.26:182][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/backrooms_floor_albedo Validating asset
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/backrooms_floor_albedo_Mat Validating asset
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/bloody_wall_albedo Validating asset
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/bloody_wall_albedo_Mat Validating asset
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/dirty_wall_albedo Validating asset
+[2025.10.06-07.20.26:182][332]AssetCheck: /Game/Texturr/dirty_wall_albedo_Mat Validating asset
+[2025.10.06-07.20.28:731][477]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.06-07.20.28:754][477]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.06-07.20.28:764][478]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.06-07.20.32:974][731]LogContentBrowser: Attempting asset rename: NewFolder -> Text
+[2025.10.06-07.20.32:974][731]LogContentBrowser: End creating deferred item NewFolder
